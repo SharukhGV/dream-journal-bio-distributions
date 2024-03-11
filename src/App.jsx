@@ -10,7 +10,7 @@ function App() {
 
   return (
     <>
- <img style={{maxWidth:"500px"}} src={dreamjournalbio}></img>
+ <img  src={dreamjournalbio}></img>
       {/* <h1>Dream Journal Bio</h1> */}
 
       <div className="card">
